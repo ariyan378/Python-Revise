@@ -5,11 +5,11 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-# logging.debug("Starting program")
-# logging.info("User logged in")
-# logging.warning("Low battery")
-# logging.error("File not found")
-# logging.critical("System crashed")
+# logging.debug()
+# logging.info()
+# logging.warning()
+# logging.error()
+# logging.critical()
 
 def divide(a, b):
     logging.info(f"Dividing {a} by {b}")
