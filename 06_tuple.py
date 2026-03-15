@@ -6,6 +6,7 @@ students = (
     ('Hridoy',789)
 )
 
+
 for student in students:
     name , score= student
     print (f"{name} Score {score}")
