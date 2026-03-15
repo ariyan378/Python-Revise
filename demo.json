@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ariyan Islam hridoy",
+        "Grade": [
+            1,
+            2,
+            3
+        ],
+        "Course": {
+            "Data Science ": 111,
+            "Artificial Intelligence ": 111,
+            "Operating System": 111,
+            "Software Engineering": 111
+        }
+    },
+    {
+        "Semester": 7,
+        "University": "Daffodil International University"
+    }
+]
