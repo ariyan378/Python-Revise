@@ -15,5 +15,6 @@ def divide(a, b):
         logging.error("Division by zero!")
         return None
 
+
 divide(10, 2)
 divide(5, 0)
