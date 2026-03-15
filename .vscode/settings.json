@@ -1,3 +1,15 @@
 {
-    "editor.fontFamily": " DejaVu Sans Mono ,Noto Sans Mono Regular, oxygen mono ,Roboto Mono ,Operator Mono  , psudoFont Liga Mono , Cascadia mono light ,Fira Code"
+    "editor.fontFamily": " DejaVu Sans Mono ,Noto Sans Mono Regular, oxygen mono ,Roboto Mono ,Operator Mono  , psudoFont Liga Mono , Cascadia mono light ,Fira Code",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#93e6fc",
+        "activityBar.background": "#93e6fc",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#fa45d4",
+        "activityBarBadge.foreground": "#15202b",
+        "sideBar.border": "#93e6fc",
+        "sash.hoverBorder": "#93e6fc",
+        "editorGroup.border": "#93e6fc"
+    },
+    "peacock.color": "#61dafb"
 }
