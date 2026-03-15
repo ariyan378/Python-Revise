@@ -6,5 +6,6 @@ def add_num(*args):
     return sum
 
 
+
 result = add_num(1,2,3,4,5)
 print(result)
